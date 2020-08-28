@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.1013aaa8.chunk.css",
-    "main.js": "/static/js/main.4f0f4913.chunk.js",
-    "main.js.map": "/static/js/main.4f0f4913.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8cc3ca45.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8cc3ca45.js.map",
-    "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
-    "static/js/2.8d94d161.chunk.js": "/static/js/2.8d94d161.chunk.js",
-    "static/js/2.8d94d161.chunk.js.map": "/static/js/2.8d94d161.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.44923fa9f8226ef1a1dce6171225d129.js": "/precache-manifest.44923fa9f8226ef1a1dce6171225d129.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
-    "static/css/main.1013aaa8.chunk.css.map": "/static/css/main.1013aaa8.chunk.css.map",
-    "static/js/2.8d94d161.chunk.js.LICENSE.txt": "/static/js/2.8d94d161.chunk.js.LICENSE.txt",
-    "static/media/mac.jpg": "/static/media/mac.16406c1e.jpg"
+    "main.css": "/mackralg/static/css/main.1013aaa8.chunk.css",
+    "main.js": "/mackralg/static/js/main.3343b5a0.chunk.js",
+    "main.js.map": "/mackralg/static/js/main.3343b5a0.chunk.js.map",
+    "runtime-main.js": "/mackralg/static/js/runtime-main.398bca46.js",
+    "runtime-main.js.map": "/mackralg/static/js/runtime-main.398bca46.js.map",
+    "static/css/2.11829350.chunk.css": "/mackralg/static/css/2.11829350.chunk.css",
+    "static/js/2.8d94d161.chunk.js": "/mackralg/static/js/2.8d94d161.chunk.js",
+    "static/js/2.8d94d161.chunk.js.map": "/mackralg/static/js/2.8d94d161.chunk.js.map",
+    "index.html": "/mackralg/index.html",
+    "precache-manifest.8c2dff0e90a9257e9cdb351440673b9f.js": "/mackralg/precache-manifest.8c2dff0e90a9257e9cdb351440673b9f.js",
+    "service-worker.js": "/mackralg/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/mackralg/static/css/2.11829350.chunk.css.map",
+    "static/css/main.1013aaa8.chunk.css.map": "/mackralg/static/css/main.1013aaa8.chunk.css.map",
+    "static/js/2.8d94d161.chunk.js.LICENSE.txt": "/mackralg/static/js/2.8d94d161.chunk.js.LICENSE.txt",
+    "static/media/mac.jpg": "/mackralg/static/media/mac.16406c1e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8cc3ca45.js",
+    "static/js/runtime-main.398bca46.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.8d94d161.chunk.js",
     "static/css/main.1013aaa8.chunk.css",
-    "static/js/main.4f0f4913.chunk.js"
+    "static/js/main.3343b5a0.chunk.js"
   ]
 }
