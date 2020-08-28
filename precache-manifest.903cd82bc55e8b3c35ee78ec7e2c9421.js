@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29c9a30b4ff3cbc308e238520a74afd6",
+    "revision": "33d104bd2da2eb96bb5ccc18eaffe35e",
     "url": "/mackralg/index.html"
   },
   {
-    "revision": "71ad8199d4fc5381136d",
+    "revision": "85eed07cbae4a7eda9a3",
     "url": "/mackralg/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "c5d00856f600d60575b1",
+    "revision": "f7629a50dd6ecd9abbae",
     "url": "/mackralg/static/css/main.1013aaa8.chunk.css"
   },
   {
-    "revision": "71ad8199d4fc5381136d",
-    "url": "/mackralg/static/js/2.14250abe.chunk.js"
+    "revision": "85eed07cbae4a7eda9a3",
+    "url": "/mackralg/static/js/2.26de6fd3.chunk.js"
   },
   {
     "revision": "85c1ecd325742a4c0551d2653970c6fb",
-    "url": "/mackralg/static/js/2.14250abe.chunk.js.LICENSE.txt"
+    "url": "/mackralg/static/js/2.26de6fd3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c5d00856f600d60575b1",
-    "url": "/mackralg/static/js/main.f1aea1f5.chunk.js"
+    "revision": "f7629a50dd6ecd9abbae",
+    "url": "/mackralg/static/js/main.03ed5689.chunk.js"
   },
   {
     "revision": "dd9784c9a5c24bea70ff",
