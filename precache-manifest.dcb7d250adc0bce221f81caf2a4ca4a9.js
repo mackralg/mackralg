@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8fe6f6ee5f810d08f7bd6cf469758530",
+    "revision": "b637016da8b2105f4057529942bcab8b",
     "url": "/mackralg/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mackralg/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "a5efd3aefbbea9ba0078",
+    "revision": "6ce3825f85e94d430661",
     "url": "/mackralg/static/css/main.9559516f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mackralg/static/js/2.cf115908.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a5efd3aefbbea9ba0078",
-    "url": "/mackralg/static/js/main.23a5ae53.chunk.js"
+    "revision": "6ce3825f85e94d430661",
+    "url": "/mackralg/static/js/main.3ae91008.chunk.js"
   },
   {
     "revision": "dd9784c9a5c24bea70ff",
